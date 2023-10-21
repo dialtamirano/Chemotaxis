@@ -50,7 +50,6 @@ class Car{
    fill(255); //white
    rect(0,495,700,5); //white line
    //mountains
-  //triangle(
    noStroke();
    fill(myC);
    rect(myX, myY, 100, 50); //car
